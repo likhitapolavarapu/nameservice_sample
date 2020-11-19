@@ -26,7 +26,7 @@ import (
 
 const (
 	storeAcc = "acc"
-	storeNS  = "nameservice"
+	storeNS  = "nameservice_sample"
 )
 
 var defaultCLIHome = os.ExpandEnv("$HOME/.nscli")
