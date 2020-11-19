@@ -1,4 +1,4 @@
-module nameservice_sample
+module nameservice
 
 go 1.23
 
